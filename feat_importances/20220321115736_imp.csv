@@ -1,0 +1,16 @@
+features,importances
+right_team_tired_mean,12641
+left_team_tired_mean,12439
+ball_y,8103
+dis_owned_left_1,6976
+dis_owned_left_0,6749
+steps_left_bin,6585
+dis_owned_left_2,6560
+ball_x,5978
+ball_z,4863
+last_match_goal_position_mean_x,4522
+owned_ball_distance_horizontal,3699
+owned_player_position_y,2608
+last_match_goal_position_mean_y,2519
+last_match_goal_position_mean_z,1957
+owned_player_position_x,1285
