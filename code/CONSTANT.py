@@ -7,9 +7,17 @@ Created on Sun Mar  6 16:59:50 2022
 """
 import os
 
-SEED = 2021
+SEED = 2022
 
-data_dir = '../data/'
+block_num = 1000
+
+data_dir = '../data_new/'
+
+file_dir = '../processed_data/'
+
+fig_dir = '../fig_r/'
+if not os.path.exists(fig_dir):
+    os.makedirs(fig_dir)
 
 feat_imp_dir = '../feat_importances/'
 if not os.path.exists(feat_imp_dir):
